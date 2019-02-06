@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1549296183 source:c:\users\brayan\documents\mega\ludus f2\c\exo\carteidentiter\identite.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"identite.h"
+
+1549295172 c:\users\brayan\documents\mega\ludus f2\c\exo\carteidentiter\identite.h
+
+1549295879 source:c:\users\brayan\documents\mega\ludus f2\c\exo\carteidentiter\main.c
+	<stdio.h>
+	<stdlib.h>
+	"identite.h"
+
+1549360793 source:c:\users\brayan\documents\mega\ludus f2\c\exo\carteidentiterdynamique\main.c
+	<stdio.h>
+	<stdlib.h>
+	"identite.h"
+
+1549360590 c:\users\brayan\documents\mega\ludus f2\c\exo\carteidentiterdynamique\identite.h
+
+1549360819 source:c:\users\brayan\documents\mega\ludus f2\c\exo\carteidentiterdynamique\identite.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"identite.h"
+
